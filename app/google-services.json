@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "451821425616",
+    "firebase_url": "https://datingchain.firebaseio.com",
+    "project_id": "datingchain",
+    "storage_bucket": "datingchain.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451821425616:android:84002daa8bccd77f",
+        "android_client_info": {
+          "package_name": "com.fbrd.datingchain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451821425616-o8pftb4kemn5as3uhelc7rdcmbnesupv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fbrd.datingchain",
+            "certificate_hash": "d9eb6f8021e2061442956a4a822d9e667d115a96"
+          }
+        },
+        {
+          "client_id": "451821425616-rn6mvrltl64uo5ss4nnanmc3bdjj3329.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABwZAcuuBU6rKDq2qJq6Xx03XmCtW6LTs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451821425616-rn6mvrltl64uo5ss4nnanmc3bdjj3329.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
